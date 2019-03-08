@@ -1,0 +1,2 @@
+# MagiMari
+Magi Mari website
